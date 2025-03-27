@@ -1,9 +1,9 @@
 ﻿namespace ConcessionariCLI.Models;
 
-abstract class user
+abstract class User
 {
     private static int _idCounter = 0;
-    public user(string name, int cpf, string position)
+    public User(string name, int cpf, string position)
     {
         Id = _idCounter ++;
         Name = name;
