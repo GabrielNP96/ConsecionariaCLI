@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConcessionariaCLI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d9bee5e892abfcd8069fc9037dcefd34f39de15")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConcessionariaCLI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConcessionariaCLI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
