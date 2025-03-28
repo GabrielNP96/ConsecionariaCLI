@@ -1,0 +1,15 @@
+c:\Users\Gabriel\Documents\curso_dotnet\ConcessionariaCLI\bin\Debug\net9.0\ConcessionariaCLI.exe
+C:\Users\Gabriel\Documents\curso_dotnet\ConcessionariaCLI\bin\Debug\net9.0\ConcessionariaCLI.deps.json
+C:\Users\Gabriel\Documents\curso_dotnet\ConcessionariaCLI\bin\Debug\net9.0\ConcessionariaCLI.runtimeconfig.json
+c:\Users\Gabriel\Documents\curso_dotnet\ConcessionariaCLI\bin\Debug\net9.0\ConcessionariaCLI.dll
+c:\Users\Gabriel\Documents\curso_dotnet\ConcessionariaCLI\bin\Debug\net9.0\ConcessionariaCLI.pdb
+c:\Users\Gabriel\Documents\curso_dotnet\ConcessionariaCLI\obj\Debug\net9.0\ConcessionariaCLI.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Gabriel\Documents\curso_dotnet\ConcessionariaCLI\obj\Debug\net9.0\ConcessionariaCLI.AssemblyInfoInputs.cache
+c:\Users\Gabriel\Documents\curso_dotnet\ConcessionariaCLI\obj\Debug\net9.0\ConcessionariaCLI.AssemblyInfo.cs
+c:\Users\Gabriel\Documents\curso_dotnet\ConcessionariaCLI\obj\Debug\net9.0\ConcessionariaCLI.csproj.CoreCompileInputs.cache
+c:\Users\Gabriel\Documents\curso_dotnet\ConcessionariaCLI\obj\Debug\net9.0\ConcessionariaCLI.sourcelink.json
+c:\Users\Gabriel\Documents\curso_dotnet\ConcessionariaCLI\obj\Debug\net9.0\ConcessionariaCLI.dll
+c:\Users\Gabriel\Documents\curso_dotnet\ConcessionariaCLI\obj\Debug\net9.0\refint\ConcessionariaCLI.dll
+c:\Users\Gabriel\Documents\curso_dotnet\ConcessionariaCLI\obj\Debug\net9.0\ConcessionariaCLI.pdb
+C:\Users\Gabriel\Documents\curso_dotnet\ConcessionariaCLI\obj\Debug\net9.0\ConcessionariaCLI.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\curso_dotnet\ConcessionariaCLI\obj\Debug\net9.0\ref\ConcessionariaCLI.dll
