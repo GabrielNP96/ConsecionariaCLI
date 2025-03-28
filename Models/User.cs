@@ -1,9 +1,10 @@
-namespace ConcessionariCLI.Models;
+namespace ConcessionariaCLI.Models;
+using ConcessionariaCLI.Enums;
 
 abstract class User
 {
     private static int _idCounter = 0;
-    public User(string name, int cpf, string position)
+    public User(string name, int cpf, Position position)
     {
         Id = _idCounter ++;
         Name = name;
@@ -14,6 +15,6 @@ abstract class User
     public int Id { get; }
     public string Name { get; }
     public int Cpf { get; }
-    public string Position { get; }
+    public Position Position { get; }
 
 }
